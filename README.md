@@ -274,3 +274,6 @@ hp@DESKTOP-VLJO66J MINGW64 ~/Desktop/Gym Git Exercise Solutions (dev)
 $ git reset team.html
 Unstaged changes after reset:
 M       README.md
+
+/*bundle 2*/
+//exercise 1
